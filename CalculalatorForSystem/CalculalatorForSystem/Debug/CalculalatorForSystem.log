@@ -1,0 +1,8 @@
+﻿  CalculalatorForSystem.cpp
+F:\Лабы за 1 сем\CalculalatorForSystem\CalculalatorForSystem\CalculalatorForSystem.cpp(107,22): warning C4244:  =: преобразование "double" в "__int64", возможна потеря данных
+F:\Лабы за 1 сем\CalculalatorForSystem\CalculalatorForSystem\CalculalatorForSystem.cpp(110,9): warning C4244:  return: преобразование "__int64" в "int", возможна потеря данных
+F:\Лабы за 1 сем\CalculalatorForSystem\CalculalatorForSystem\CalculalatorForSystem.cpp(474,70): warning C4244:  аргумент: преобразование "__int64" в "int", возможна потеря данных
+F:\Лабы за 1 сем\CalculalatorForSystem\CalculalatorForSystem\CalculalatorForSystem.cpp(474,63): warning C4244:  аргумент: преобразование "__int64" в "int", возможна потеря данных
+F:\Лабы за 1 сем\CalculalatorForSystem\CalculalatorForSystem\CalculalatorForSystem.cpp(489,64): warning C4244:  аргумент: преобразование "__int64" в "int", возможна потеря данных
+F:\Лабы за 1 сем\CalculalatorForSystem\CalculalatorForSystem\CalculalatorForSystem.cpp(489,57): warning C4244:  аргумент: преобразование "__int64" в "int", возможна потеря данных
+  CalculalatorForSystem.vcxproj -> F:\Лабы за 1 сем\CalculalatorForSystem\Debug\CalculalatorForSystem.exe

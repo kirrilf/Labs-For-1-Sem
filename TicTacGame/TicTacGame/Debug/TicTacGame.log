@@ -1,0 +1,3 @@
+﻿  TicTacGame.cpp
+F:\Лабы за 1 сем\TicTacGame\TicTacGame\TicTacGame.cpp(198,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  TicTacGame.vcxproj -> F:\Лабы за 1 сем\TicTacGame\Debug\TicTacGame.exe

@@ -1,0 +1,8 @@
+﻿  HiperSimple.cpp
+F:\Лабы за 1 сем\HiperSimple\HiperSimple\HiperSimple.cpp(31,16): warning C4244:  аргумент: преобразование "__int64" в "const _Ty", возможна потеря данных
+F:\Лабы за 1 сем\HiperSimple\HiperSimple\HiperSimple.cpp(31,16): warning C4244:         with
+F:\Лабы за 1 сем\HiperSimple\HiperSimple\HiperSimple.cpp(31,16): warning C4244:         [
+F:\Лабы за 1 сем\HiperSimple\HiperSimple\HiperSimple.cpp(31,16): warning C4244:             _Ty=int
+F:\Лабы за 1 сем\HiperSimple\HiperSimple\HiperSimple.cpp(31,16): warning C4244:         ]
+F:\Лабы за 1 сем\HiperSimple\HiperSimple\HiperSimple.cpp(87,20): warning C4018:  <: несоответствие типов со знаком и без знака
+  HiperSimple.vcxproj -> F:\Лабы за 1 сем\HiperSimple\Debug\HiperSimple.exe
